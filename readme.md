@@ -50,11 +50,11 @@ $ superfood --help
 
   Examples
     $ superfood
-    Spider-Ham
+    carrot
 
     $ superfood --all
-    3-D Man
-    A-Bomb
+    cake
+    bread
     ...
 
   Options
