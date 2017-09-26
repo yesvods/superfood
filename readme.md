@@ -20,7 +20,7 @@ $ npm install --save superfood
 var superfood = require('superfood');
 
 superfood.random();
-//=> 'Spider-Ham'
+//=> 'persimmon'
 ```
 
 
