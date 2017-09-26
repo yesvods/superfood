@@ -1,4 +1,4 @@
-# superfood [![Build Status](https://travis-ci.org/sindresorhus/superfood.svg?branch=master)](https://travis-ci.org/sindresorhus/superfood)
+# superfood [![Build Status](https://travis-ci.org/yesvods/superfood.svg?branch=master)](https://travis-ci.org/yesvods/superfood)
 
 > Get superfood names
 
