@@ -1,0 +1,48 @@
+{
+  "name": "superfood",
+  "version": "1.0.0",
+  "description": "Get food names",
+  "license": "MIT",
+  "repository": "yesvods/superfood",
+  "bin": "cli.js",
+  "author": {
+    "name": "Jogis",
+    "email": "t@scoii.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "superfood.json"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "bin",
+    "word",
+    "words",
+    "list",
+    "array",
+    "random",
+    "rand",
+    "superfoods",
+    "superfood",
+    "foods",
+    "food",
+    "marvel",
+    "dc",
+    "comics"
+  ],
+  "dependencies": {
+    "meow": "^3.3.0",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*"
+  }
+}
